@@ -7,8 +7,8 @@ on:
   - cron: "0 0 * * *"
 
 env:
-  DOCKERHUB_USERNAME: supersandro2000
-  GHCR_USERNAME: supersandro2000
+  DOCKERHUB_USERNAME: tipsyhitman
+  GHCR_USERNAME: tipsyhitman
 
 permissions:
   contents: read
