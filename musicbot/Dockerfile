@@ -10,7 +10,6 @@ ARG VERSION=0.3.8
 RUN wget -q -O JMusicBot.jar -- https://github.com/jagrosh/MusicBot/releases/download/$VERSION/JMusicBot-$VERSION.jar
 
 #--------------#
-#--------------#
 
 FROM openjdk:11-jre-slim
 
